@@ -1,6 +1,5 @@
 mod raft;
-
 fn main() {
-    println!("Hello, world!");
+    println!("building protofiles!");
 }
 

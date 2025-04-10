@@ -5,6 +5,7 @@ struct LogItem {
 }
 
 pub struct Log {
-    termNumber: i32,
-    LogItem: String
+    pub term_number: u32,
+    pub log_item: String
 }
+
